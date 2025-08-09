@@ -1,0 +1,19 @@
+
+{
+  "name": "task1-devops-ci-cd",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for CI/CD pipeline demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
+
+
